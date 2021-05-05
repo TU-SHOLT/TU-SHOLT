@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sean Holt. Recently left the Corporate Finance world to pursue development. I was tired of score keeping. I needed a change. 
+- 👋 Hi, I’m Sean. Recently left the Corporate Finance world to pursue development. I was tired of score keeping. I needed a change. 
 
 - 👀 I’m interested in deepening my knowlege base in Java, Pythong, JavaScript, MERN and making more beautiful, quicker and responsive websites. I would eventually like to be able to produce mobile apps. 
 
